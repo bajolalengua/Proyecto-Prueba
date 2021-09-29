@@ -1,0 +1,12 @@
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\Julian\Documents\Programacion TIC\Desarrollo de Software - C#\Dominio\obj\Debug\net5.0\Dominio.pdb
