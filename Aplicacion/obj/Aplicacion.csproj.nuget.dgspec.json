@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\Aplicacion.csproj": {}
+    "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config"

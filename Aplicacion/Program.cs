@@ -12,9 +12,10 @@ namespace Aplicacion
             // addPersona();
             // deletePersona();
             //update_Persona();
-            // listar_Personas();
-            detailPersona(9);
             Console.WriteLine("Listado");
+            listar_Personas();
+            // detailPersona(9);
+            
         }
         
         private static void addPersona(){
@@ -38,7 +39,8 @@ namespace Aplicacion
         }
 
         private static void listar_Personas(){
-            _repoPersona.GetAllPersonas();
+           var listado = _repoPersona.GetAllPersonas();
+           Console.WriteLine(listado);
         }
 
         private static void detailPersona(int idPersona){

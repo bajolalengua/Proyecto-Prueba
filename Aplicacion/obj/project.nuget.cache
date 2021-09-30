@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g60ZbKMsPD2+A0Rk/2WZ1pKm81ZAqtvkl/bd6dODxNN9z9yqVo0leQVoQY7CQH8280FJCDQ0mP26m0Nk4v5y9g==",
+  "dgSpecHash": "g81LmQEz9tACFlTiRHBoyqSb3MEAgpf0ODjsoB9+dKFaydO3viLpdzHSwuRAoC9Kx7ZUuuWnp20TO/PMFeXNbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\Julian\\Documents\\Programacion TIC\\Desarrollo de Software - C#\\aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julian\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Julian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
